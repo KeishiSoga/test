@@ -3,3 +3,5 @@
 
 - ローカルレポジトリを作る
     - git init
+    -git add
+    
